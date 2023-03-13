@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @joseph56-coder
-- 👀 I’m interested in game progaming
-- 🌱 I’m currently learning systems development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1> Habilidades profissionais</h1><br>
+- Linguagem de programação: JavaScript, HTML5, CSS, PHP, C#;
+- Banco de dados: Sql;
+- Programas: Visual Code, Unity, Godot Engine;
+- Software de edição de imagem: GIMP;
+- Software de edição de áudio: Audacity;
+<br>
+<H1>Sobre mim </h1>
+- curto filosofia;
+- gosto de ouvir e tocar música;
+- criar é jogar jogos;
 
-<!---
-joseph56-coder/joseph56-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
